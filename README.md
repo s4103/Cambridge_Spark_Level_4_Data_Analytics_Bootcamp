@@ -2,9 +2,7 @@
 **Cambridge Spark - Level 4 Data Analyst Bootcamp**  
 *May 2024 - Aug 2024*
 
-During this bootcamp, I developed advanced skills in **Python programming**, **data manipulation with Pandas**, and **data visualisation** using libraries like **Seaborn** and **Bokeh**. I 
-participated in hands-on projects, including a hackathon where I analysed streaming service data to generate actionable insights. Additionally, I refined my ability to create and present 
-**data-driven narratives**, equipping me to tackle complex data challenges and communicate insights effectively.
+This portfolio showcases a selection of projects completed during my 14-week Level 4 Data Analytics Bootcamp.
 
 ## 🛠️ Skills
 - **Programming**: Python, SQL, Pandas, NumPy

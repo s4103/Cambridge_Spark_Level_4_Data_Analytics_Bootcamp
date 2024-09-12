@@ -2,7 +2,7 @@
 **Cambridge Spark - Level 4 Data Analyst Bootcamp**  
 *May 2024 - Aug 2024*
 
-This portfolio showcases a selection of projects completed during my 14-week Level 4 Data Analytics Bootcamp.
+This portfolio showcases a selection of projects completed during my 14-week Level 4 Data Analytics Bootcamp with Cambridge Spark.
 
 ## 🛠️ Skills
 - **Programming**: Python, SQL, Pandas, NumPy

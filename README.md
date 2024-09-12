@@ -16,11 +16,10 @@ participated in hands-on projects, including a hackathon where I analysed stream
 I am a **Data Analyst** with a **First-Class Honour degree in Economics** and experience in both **Professional Services** and the **Public Sector**. I excel in data analysis, visualisation, and delivering actionable insights using tools like **Python**, **Pandas**, and **SQL Server**. I thrive in both team-based projects and individual work environments, and I am seeking roles focused on **Data Analysis**.
 
 ## 📂 Projects
-1. **Comparative Analysis of Customer Profiles Across Treadmill Models**: In this group project, customer profiles were compared across treadmill models TM195, TM498, and TM798 to
-2. identify trends and differences in user demographics and usage patterns. By analysing customer data, insights were uncovered that can inform marketing strategies and product
-3. development. The findings are intended to help optimise product offerings and better understand the typical customer for each model. The project includes data analysis, visualisations, and a presentation
-5. summarising our key conclusions and recommendations.
-6. **Optimising Streaming Services: Insights from Netflix Data**: In this group project, a Netflix dataset was analysed to provide strategic recommendations for CS-Streaming's new
-7. service. The data was cleaned and preprocessed, exploratory and statistical analyses was conducted, and clustering techniques were used to uncover trends and user behaviour. The
-8. analysis aims to offer actionable insights for optimising the new streaming service and competing with Netflix. The deliverables include a comprehensive notebook, visualisations, and a
-9. presentation highlighting key findings and recommendations.
+**Comparative Analysis of Customer Profiles Across Treadmill Models**: In this group project, customer profiles were compared across treadmill models TM195, TM498, and TM798 to
+identify trends and differences in user demographics and usage patterns. By analysing customer data, insights were uncovered that can inform marketing strategies and product
+development. The findings are intended to help optimise product offerings and better understand the typical customer for each model. The project includes data analysis, visualisations, and a presentation summarising our key conclusions and recommendations.
+**Optimising Streaming Services: Insights from Netflix Data**: In this group project, a Netflix dataset was analysed to provide strategic recommendations for CS-Streaming's new service.
+The data was cleaned and preprocessed, exploratory and statistical analyses was conducted, and clustering techniques were used to uncover trends and user behaviour. The analysis aims to
+offer actionable insights for optimising the new streaming service and competing with Netflix. The deliverables include a comprehensive notebook, visualisations, and a presentation
+highlighting key findings and recommendations.

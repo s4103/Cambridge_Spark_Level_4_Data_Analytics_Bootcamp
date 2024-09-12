@@ -1,4 +1,4 @@
-# Sabeeha | Data Analyst Portfolio  
+# Data Analyst Portfolio  
 **Cambridge Spark - Level 4 Data Analyst Bootcamp**  
 *May 2024 - Aug 2024*
 
@@ -11,9 +11,6 @@ participated in hands-on projects, including a hackathon where I analysed stream
 - **Data Visualisation**: Matplotlib, Seaborn, Bokeh
 - **Tools**: PowerBI, Excel, Jupyter Notebooks
 - **Techniques**: Data Cleaning, EDA, Storytelling with Data, Visualisation
-
-## 💼 About Me
-I am a **Data Analyst** with a **First-Class Honour degree in Economics** and experience in both **Professional Services** and the **Public Sector**. I excel in data analysis, visualisation, and delivering actionable insights using tools like **Python**, **Pandas**, and **SQL Server**. I thrive in both team-based projects and individual work environments, and I am seeking roles focused on **Data Analysis**.
 
 ## 📂 Projects
 **Comparative Analysis of Customer Profiles Across Treadmill Models**: In this group project, customer profiles were compared across treadmill models TM195, TM498, and TM798 to
